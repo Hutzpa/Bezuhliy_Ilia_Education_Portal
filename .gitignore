@@ -5,3 +5,6 @@
 *.txt
 *.props
 *.targets
+*.dgspec.json 
+*.assets.json 
+*.v2
